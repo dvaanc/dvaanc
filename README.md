@@ -1,4 +1,24 @@
-### Hi there 👋
+### Front-end Developer
+
+# Hello! I'm Danny, welcome to my profile :grin:!
+
+# My Tech Stack:
+- HTML
+- CSS
+- JavaScript
+- React
+
+# Currently learning:
+- TypeScript
+- Styled Components
+- Firebase
+
+# What I plan to learn in the future: 
+- Node.js
+- Express
+- MongoDB
+- Electron
+- React Native
 
 <!--
 **dvaanc/dvaanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
