@@ -1,19 +1,19 @@
-#Front-end Developer
+# Front-end Developer
 
-## Hello! I'm Danny, welcome to my profile :grin:!
+### Hello! I'm Danny, welcome to my profile :grin:!
 
-## My Tech Stack:
+### My Tech Stack:
 - HTML
 - CSS
 - JavaScript
 - React
 
-## Currently learning:
+### Currently learning:
 - TypeScript
 - Styled Components
 - Firebase
 
-## What I plan to learn in the future: 
+### What I plan to learn in the future: 
 - Node.js
 - Express
 - MongoDB
