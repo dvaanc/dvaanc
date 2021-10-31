@@ -3,10 +3,7 @@
 ### Hello! I'm Danny, welcome to my profile :grin:!
 
 ### My Tech Stack:
-- HTML
-- CSS
-- JavaScript
-- React
+![https://github.com/coherencez/tech-logos/blob/master/html5.png]
 
 ### Currently learning:
 - TypeScript
