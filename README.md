@@ -1,9 +1,10 @@
-# Front-end Developer
+# Web Developer
 
 ### Hello! I'm Danny, welcome to my profile :grin:!
 
 ### My Tech Stack:
-![](https://github.com/coherencez/tech-logos/blob/master/html5.png)
+<img src="https://github.com/coherencez/tech-logos/blob/master/html5.png" width="80">
+
 
 ### Currently learning:
 - TypeScript
