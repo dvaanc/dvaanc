@@ -1,7 +1,7 @@
 # Web Developer
 
 ### My Tech Stack:
-<img src="https://github.com/coherencez/tech-logos/blob/master/html5.png" width="80"/><img src="https://github.com/coherencez/tech-logos/blob/master/css3.png" width="60"/><img src="https://github.com/coherencez/tech-logos/blob/master/jslogo.png" width="65"/><img src="https://github.com/coherencez/tech-logos/blob/master/react.png" width="65"/><img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" width="65"/><img src="https://github.com/coherencez/tech-logos/blob/master/firebase.png" width="65"><img src="https://www.styled-components.com/atom.png" width="65"/>
+<img src="https://github.com/coherencez/tech-logos/blob/master/html5.png" width="80"/><img src="https://github.com/coherencez/tech-logos/blob/master/css3.png" width="60"/>&nbsp;<img src="https://github.com/coherencez/tech-logos/blob/master/jslogo.png" width="65"/><img src="https://github.com/coherencez/tech-logos/blob/master/react.png" width="65"/><img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" width="65"/><img src="https://github.com/coherencez/tech-logos/blob/master/firebase.png" width="65"><img src="https://www.styled-components.com/atom.png" width="65"/>
 
 ### Currently learning:
 - TypeScript
