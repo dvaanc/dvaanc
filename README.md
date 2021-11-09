@@ -7,8 +7,8 @@
 - TypeScript
 - Styled Components
 - Firebase
-
-### What I plan to learn in the future: 
+- Tailwind CSS
+### Plan to learn:
 - Node.js
 - Express
 - MongoDB
