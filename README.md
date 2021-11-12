@@ -1,7 +1,7 @@
 # Web Developer
 
 Hello there! I am a self-taught developer following the Odin Project curriculum,
-I'm deeply passionate in all things related to coding and hope pursue this passion of mine to the fullest potential.
+I'm deeply passionate in all things related to coding and hope to pursue this passion of mine to the fullest potential.
 Whenever I'm not coding I love to be in the gym lifting weights or play Final Fantasy 14! 
 
 ### My Tech Stack:
