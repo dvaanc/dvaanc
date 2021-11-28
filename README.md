@@ -10,6 +10,7 @@
 - Styled Components
 - Firebase
 - Redux
+- Next.js
 
 ### Future learning:
 - Node.js
