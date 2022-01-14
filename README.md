@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">Passionate full stack developer</h3>
+<h3 align="center">Passionate full stack developer.</h3>
 
 - 🔭 I’m currently working on [Discord Clone](https://github.com/dvaanc/discord-clone)
 
@@ -9,7 +9,7 @@
 
 - ⚡ Hobbies & Interests **Coding (duh), motorcycles, video games, weight training, running, music, computers, custom keyboards**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
