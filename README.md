@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Discord Clone](https://github.com/dvaanc/discord-clone) and learning Node, Express and MongoDB.
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently learning **[The Odin Project](https://www.theodinproject.com)**
 
 - 📫 How to reach me **danny.vt.cao@gmail.com**
 
