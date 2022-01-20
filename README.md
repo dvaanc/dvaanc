@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Passionate full stack developer.</h3>
 
-- 🔭 I’m currently working on [Discord Clone](https://github.com/dvaanc/discord-clone)
+- 🔭 I’m currently working on [Discord Clone](https://github.com/dvaanc/discord-clone) and learning Node, Express and MongoDB.
 
-- 🌱 I’m currently learning **The Odin Project, Node.js, MongoDB, Express**
+- 🌱 I’m currently learning **The Odin Project**
 
 - 📫 How to reach me **danny.vt.cao@gmail.com**
 
