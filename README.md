@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Passionate full stack developer.</h3>
 
-- 🔭 I’m currently working on [comms](https://github.com/dvaanc/comms) & [my personal page](https://github.com/dvaanc/personal-page), Node, Express, MongoDB, Next.JS and TailwindCSS
+- 🔭 I’m currently working on [comms](https://github.com/dvaanc/comms) & [chat-app](https://github.com/dvaanc/chat-app) & [my personal page](https://github.com/dvaanc/personal-page), Node, Express, MongoDB, Next.JS and TailwindCSS
 
 - 🌱 I’m currently learning **[The Odin Project](https://www.theodinproject.com)**
 
