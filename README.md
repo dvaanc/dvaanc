@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **danny.vt.cao@gmail.com**
 
-- ⚡ Hobbies & Interests **Coding (duh), motorcycles, video games, weight training, running, music, computers, custom keyboards**
-
 
 <p align="left">
 </p>
