@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Passionate web developer.</h3>
 
-- 🔭 I’m currently working on a [uni project](https://github.com/dvaanc/computer-warriaz-project)
+- 🔭 I’m currently working on: See below.
 
-- 🌱 I’m currently learning **[The Odin Project](https://www.theodinproject.com)** & studying at Swinburne University of Technology.
+- 🌱 I’m currently learning **[Full Stack Open](https://fullstackopen.com/en/) course.** 
 
 - 📫 How to reach me **danny.vt.cao@gmail.com**
 
