@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Passionate web developer.</h3>
 
-- 🔭 I’m currently working on: See below.
+- 🔭 I’m currently working on: **[Full Stack Open](https://github.com/soarhh/fsopen)**
 
 - 🌱 I’m currently learning **[Full Stack Open](https://fullstackopen.com/en/) course.** 
 
